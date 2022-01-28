@@ -1,5 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
-  "defaultViewMode": "preview"
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": true
 }

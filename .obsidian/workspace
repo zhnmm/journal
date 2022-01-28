@@ -9,9 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "repository/jh-notes/titled/5g.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "7b847df230aeed66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "2022-01-28.md",
-            "mode": "source",
-            "source": false
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-01-28.md",
+                "file": "repository/jh-notes/titled/5g.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,11 +96,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "873bdbe2423d67bd",
   "lastOpenFiles": [
-    "2022-01-28.md"
+    "repository/jh-notes/titled/5g.md",
+    "repository/jh-notes/titled/3d打印.md",
+    "2022-01-28.md",
+    "repository/jh-notes/index.md",
+    "repository/jh-notes/readme.md"
   ]
 }
