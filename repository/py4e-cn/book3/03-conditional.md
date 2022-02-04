@@ -47,7 +47,7 @@ False
       x is not y           # x is not the same as y
 ~~~~
 
-虽然你可能很熟悉这些运算符，但要注意这些Python符号并不等同于数学符号。一个常见的错误是用了单等号（`=`），而没有用双等号（`==`）。请记住，`=`是赋值运算符，`==`是比较运算符。不存在`=<`或`=>`这样的运算符。
+虽然你可能很熟悉这些运算符，但要注意这些Python符号并不等同于数学符号。一个常见的错误是用了单等号（`=`），而没有用双等号（`==`）。请记住，`=`是赋值运算符，`==`是比较运算符。不存在`=<`或`=>`这样的运算符。 ^a17dc9
 
 \index{比较运算符}
 \index{运算符!比较}
@@ -58,9 +58,9 @@ False
 \index{逻辑运算符}
 \index{运算符!逻辑}
 
-**逻辑运算符** 包括`and`（与）、`or`（或）与`not`（非）三个。这些运算符的语义与它们的英文含义相似。例如，
+**逻辑运算符** 包括`and`（与）、`or`（或）与`not`（非）三个。这些运算符的语义与它们的英文含义相似。例如， ^e37a77
 
-`x > 0 and x < 10`
+`x > 0 and x < 10` ^976571
 
 只在`x`大于0**并且**小于10时为真。
 
@@ -123,7 +123,7 @@ definitions or `for` loops^[We will learn about functions in Chapter 4 and loops
 The statement consists of a
 header line that ends with the colon character (:) followed by an
 indented block. Statements like this are called *compound
-statements* because they stretch across more than one line.
+statements* because they stretch across more than one line. ^32124f
 
 There is no limit on the number of statements that can appear in the
 body, but there must be at least one. Occasionally, it is useful to have

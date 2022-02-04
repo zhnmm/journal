@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repository/py4e-cn/book3/03-conditional.md",
+            "file": "2022-02-04.md",
             "mode": "source",
             "source": true
           }
@@ -24,7 +24,7 @@
           "type": "markdown",
           "state": {
             "file": "2022-02-03.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02-03.md",
+                "file": "2022-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +100,17 @@
     "direction": "horizontal",
     "width": 164
   },
-  "active": "f78b1b62c057286c",
+  "active": "7b847df230aeed66",
   "lastOpenFiles": [
+    "2022-02-04.md",
+    "repository/py4e-cn/book3/04-functions.md",
     "2022-02-03.md",
-    "2022-02-02.md",
     "repository/py4e-cn/book3/03-conditional.md",
+    "2022-02-02.md",
     "repository/py4e-cn/book3/02-variables.md",
     "2022-01-29.md",
     "repository/py4e-cn/book3/01-intro.md",
     "repository/py4e-cn/images/pda2.svg",
-    "height=1.0in@../images/pda.md",
-    "repository/py4e-cn/book3/convert/README.md",
-    "repository/py4e-cn/book3/README.md"
+    "height=1.0in@../images/pda.md"
   ]
 }
