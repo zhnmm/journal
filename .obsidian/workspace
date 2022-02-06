@@ -6,11 +6,11 @@
       {
         "id": "7b847df230aeed66",
         "type": "leaf",
-        "dimension": 57.21476510067114,
+        "dimension": 54.02144772117963,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repository/jh-notes/titled/5g.md",
+            "file": "repository/py4e-cn/book3/09-dictionaries.md",
             "mode": "preview",
             "source": true
           }
@@ -19,11 +19,11 @@
       {
         "id": "f78b1b62c057286c",
         "type": "leaf",
-        "dimension": 42.78523489932886,
+        "dimension": 45.97855227882037,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02-04.md",
+            "file": "2022-02-05.md",
             "mode": "source",
             "source": true
           }
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204
+    "width": 254
   },
   "right": {
     "id": "4dc985952e4650b5",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02-04.md",
+                "file": "2022-02-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +98,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 164
+    "width": 195
   },
   "active": "f78b1b62c057286c",
   "lastOpenFiles": [
+    "2022-02-05.md",
+    "repository/py4e-cn/book3/09-dictionaries.md",
     "2022-02-04.md",
     "repository/jh-notes/titled/5g.md",
+    "repository/py4e-cn/book3/08-lists.md",
+    "repository/py4e-cn/book3/07-files.md",
+    "2022-01-29.md",
+    "repository/py4e-cn/book3/01-intro.md",
     "repository/jh-notes/titled/bd象限不为空.md",
-    "repository/jh-notes/titled/5g耗能.md",
-    "repository/jh-notes/titled/3d打印.md",
-    "repository/jh-notes/titled/ai模拟.md",
-    "repository/py4e-cn/book3/06-strings.md",
-    "repository/py4e-cn/book3/05-iterations.md",
-    "2022-02-03.md",
-    "repository/py4e-cn/book3/04-functions.md"
+    "repository/jh-notes/titled/5g耗能.md"
   ]
 }
