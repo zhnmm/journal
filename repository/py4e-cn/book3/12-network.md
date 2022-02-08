@@ -8,7 +8,7 @@ information when one considers the Internet.
 
 In this chapter we will pretend to be a web browser and retrieve web
 pages using the HyperText Transport Protocol (HTTP). Then we will read
-through the web page data and parse it.
+through the web page data and parse it. ^76e13e
 
 HyperText Transport Protocol - HTTP
 -----------------------------------
@@ -103,7 +103,7 @@ indicates that the document is a plain text document
 
 After the server sends us the headers, it adds a blank line to indicate
 the end of the headers, and then sends the actual data of the file
-`romeo.txt`.
+`romeo.txt`. ^251c3e
 
 This example shows how to make a low-level network connection with
 sockets. Sockets can be used to communicate with a web server or with a
@@ -507,7 +507,7 @@ port
     contacting when you make a socket connection to a server. As an
     example, web traffic usually uses port 80 while email traffic uses
     port 25.
-\index{port}
+\index{port} ^1de472
 
 scrape
 :   When a program pretends to be a web browser and retrieves a web

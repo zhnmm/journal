@@ -542,7 +542,7 @@ API
 :   Application Program Interface - A contract between applications that
     defines the patterns of interaction between two application
     components.
-\index{API}
+\index{API} ^577d62
 
 ElementTree
 :   A built-in Python library used to parse XML data.

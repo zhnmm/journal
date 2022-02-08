@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repository/py4e-cn/book3/11-regex.md",
+            "file": "repository/py4e-cn/book3/13-web.md",
             "mode": "preview",
             "source": true
           }
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02-06.md",
+            "file": "2022-02-07.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-02-06.md",
+                "file": "2022-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "f78b1b62c057286c",
   "lastOpenFiles": [
-    "2022-02-06.md",
+    "2022-02-07.md",
+    "repository/py4e-cn/book3/13-web.md",
+    "repository/py4e-cn/book3/12-network.md",
     "repository/py4e-cn/book3/11-regex.md",
+    "2022-02-06.md",
     "repository/py4e-cn/book3/10-tuples.md",
     "2022-02-04.md",
     "repository/py4e-cn/book3/09-dictionaries.md",
     "2022-02-05.md",
-    "repository/jh-notes/titled/5g.md",
-    "repository/py4e-cn/book3/08-lists.md",
-    "repository/py4e-cn/book3/07-files.md",
-    "2022-01-29.md"
+    "repository/jh-notes/titled/5g.md"
   ]
 }
