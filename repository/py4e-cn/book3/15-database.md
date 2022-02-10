@@ -20,7 +20,7 @@ Like a dictionary, database software is designed to keep the inserting
 and accessing of data very fast, even for large amounts of data.
 Database software maintains its performance by building
 *indexes* as data is added to the database to allow the
-computer to jump quickly to a particular entry.
+computer to jump quickly to a particular entry. ^14d4f4
 
 There are many different database systems which are used for a wide
 variety of purposes including: Oracle, MySQL, Microsoft SQL Server,
@@ -122,7 +122,7 @@ file in the same directory as the Python code we are running.
 A *cursor* is like a file handle that we can use to
 perform operations on the data stored in the database. Calling
 `cursor()` is very similar conceptually to calling
-`open()` when dealing with text files.
+`open()` when dealing with text files. ^6fd055
 
 ![A Database Cursor](height=2.0in@../images/cursor)
 
@@ -879,7 +879,6 @@ There are generally three kinds of keys used in a database model.
     very little storage and can be compared or sorted very quickly. In
     our data model, the `id` field is an example of a primary
     key.
-
 -   A *foreign key* is usually a number that points to
     the primary key of an associated row in a different table. An
     example of a foreign key in our data model is the `from_id`.
@@ -1051,7 +1050,7 @@ foreign key
 :   A numeric key that points to the primary key of a row in another
     table. Foreign keys establish relationships between rows stored in
     different tables.
-\index{foreign key}
+\index{foreign key} ^18fb52
 
 index
 :   Additional data that the database software maintains as rows and
@@ -1063,7 +1062,7 @@ logical key
 :   A key that the "outside world" uses to look up a particular row. For
     example in a table of user accounts, a person's email address might
     be a good candidate as the logical key for the user's data.
-\index{logical key}
+\index{logical key} ^88ebf5
 
 normalization
 :   Designing a data model so that no data is replicated. We store each
