@@ -2,5 +2,7 @@
   "legacyEditor": false,
   "livePreview": false,
   "defaultViewMode": "preview",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "communityPluginSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true
 }
