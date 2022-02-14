@@ -11,15 +11,15 @@ IR
 [BD象限不为空 - 男人维护女权是一种什么心理？](repository/jh-notes/titled/bd象限不为空.md)
 IR
 [Black Wallstreet - 黑人有没有可能自己建一个州？](repository/jh-notes/titled/black-wallstreet.md)
-
+ER
 [BoyzIIMen - 应该向恋人坦白自己的过去吗?](repository/jh-notes/titled/boyziimen.md)
-
+IR
 [BRT - BRT 和地铁相比有哪些优劣之处？](repository/jh-notes/titled/brt.md)
-
+IR
 [CIA - 如果普通人被CIA列为暗杀对象，怎么做才能活超过7天？](repository/jh-notes/titled/cia.md)
-
+ER
 [Circle-Of-Shame - 如何看待最近的“坦克”羞辱？](repository/jh-notes/titled/circle-of-shame.md)
-
+ER
 [FURY - 一个人的狂怒能有多可怕？](repository/jh-notes/titled/fury.md)
 
 [HM - 如何看待 H&M 在「禁用新疆棉花」一事后，疑似遭淘宝等多个电商平台下架？](repository/jh-notes/titled/hm.md)

@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7b847df230aeed66",
+        "id": "27045b3ed22b6ab8",
         "type": "leaf",
-        "dimension": 48.05102763997165,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
-            "mode": "source",
+            "file": "如何进行阅读及摘要.md",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "f78b1b62c057286c",
+        "id": "0182f33c6d8d1ac0",
         "type": "leaf",
-        "dimension": 51.94897236002835,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-02-09.md",
+            "file": "daily-notes/2022-2-10 Thu.md",
             "mode": "preview",
             "source": true
           }
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "daily-notes/2022-2-10 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +98,17 @@
     "direction": "horizontal",
     "width": 195
   },
-  "active": "7b847df230aeed66",
+  "active": "0182f33c6d8d1ac0",
   "lastOpenFiles": [
-    "index.md",
-    "repository/jh-notes/titled/ai模拟.md",
-    "2022-02-09.md",
-    "repository/jh-notes/titled/5g耗能.md",
-    "repository/py4e-cn/book3/15-database.md",
-    "2022-01-28.md",
-    "repository/jh-notes/titled/3d打印.md",
-    "repository/jh-notes/index.md",
-    "repository/jh-notes/readme.md",
-    "repository/py4e-cn/book3/README.md"
+    "daily-notes/2022-2-10 Thu.md",
+    "如何进行阅读及摘要.md",
+    "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
+    "说书人中的五虎将.md",
+    "daily-notes/2022-1-28 Fri.md",
+    "web/The Complete Guide to Time Blocking.md",
+    "daily-notes/2022-01-29.md",
+    "web/说书人中的五虎将 上_萨苏_新浪博客.md",
+    "templates/metadata.md",
+    "index.md"
   ]
 }

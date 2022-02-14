@@ -3,5 +3,6 @@
   "livePreview": false,
   "defaultViewMode": "preview",
   "showLineNumber": true,
-  "communityPluginSortOrder": "alphabetical"
+  "communityPluginSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true
 }

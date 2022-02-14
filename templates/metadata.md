@@ -1,0 +1,8 @@
+- Metadata
+	- Author: 
+	- link: 
+	- Publisher: 
+	- Date: [[{{date: YYYY-M-D ddd}}]]
+	- Status: 
+	- Tag: 
+- content
