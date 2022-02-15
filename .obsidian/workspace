@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "如何进行阅读及摘要.md",
+            "file": "repository/py4e-cn/book3/01-intro.md",
             "mode": "preview",
             "source": true
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily-notes/2022-2-10 Thu.md",
+            "file": "index2.md",
             "mode": "preview",
             "source": true
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2022-2-10 Thu.md",
+                "file": "index2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "0182f33c6d8d1ac0",
   "lastOpenFiles": [
+    "index2.md",
+    "daily-notes/2022-2-14 Mon.md",
     "daily-notes/2022-2-10 Thu.md",
+    "repository/py4e-cn/book3/01-intro.md",
     "如何进行阅读及摘要.md",
     "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
     "说书人中的五虎将.md",
     "daily-notes/2022-1-28 Fri.md",
     "web/The Complete Guide to Time Blocking.md",
-    "daily-notes/2022-01-29.md",
-    "web/说书人中的五虎将 上_萨苏_新浪博客.md",
-    "templates/metadata.md",
-    "index.md"
+    "daily-notes/2022-01-29.md"
   ]
 }
