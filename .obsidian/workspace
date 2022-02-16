@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "27045b3ed22b6ab8",
+        "id": "69777753f23105e8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repository/py4e-cn/book3/01-intro.md",
+            "file": "repository/jh-notes/titled/不卑不亢2.md",
             "mode": "preview",
+            "backlinks": true,
             "source": true
           }
         }
       },
       {
-        "id": "0182f33c6d8d1ac0",
+        "id": "0aeae6b071b1ae4f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index2.md",
+            "file": "daily-notes/2022-2-15 Tue.md",
             "mode": "preview",
             "source": true
           }
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index2.md",
+                "file": "daily-notes/2022-2-15 Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +99,17 @@
     "direction": "horizontal",
     "width": 195
   },
-  "active": "0182f33c6d8d1ac0",
+  "active": "0aeae6b071b1ae4f",
   "lastOpenFiles": [
-    "index2.md",
-    "daily-notes/2022-2-14 Mon.md",
-    "daily-notes/2022-2-10 Thu.md",
-    "repository/py4e-cn/book3/01-intro.md",
+    "daily-notes/2022-2-15 Tue.md",
+    "repository/jh-notes/titled/不卑不亢2.md",
+    "index.md",
+    "repository/jh-notes/titled/不卑不亢1.md",
+    "repository/jh-notes/titled/不可论断人.md",
+    "repository/jh-notes/All/中国人和犹太人是世界上最聪明最勤奋的民族吗为什么二者的命运相差那么大-x10694273956y1018736941.md",
+    "repository/jh-notes/All/古代的许多大学问家仅仅通过思考就提出一些远远超出他们时代的理论靠的是运气吗-x9796631396y903182950.md",
+    "README.md",
     "如何进行阅读及摘要.md",
-    "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
-    "说书人中的五虎将.md",
-    "daily-notes/2022-1-28 Fri.md",
-    "web/The Complete Guide to Time Blocking.md",
-    "daily-notes/2022-01-29.md"
+    "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md"
   ]
 }
