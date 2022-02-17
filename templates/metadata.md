@@ -1,8 +1,13 @@
+---
+author: 
+url: 
+publisher: 
+status: 
+tags: 
+---
 - Metadata
-	- Author: 
 	- link: 
-	- Publisher: 
-	- Date: [[{{date: YYYY-M-D ddd}}]]
-	- Status: 
-	- Tag: 
-- content
+	- date: [[{{date: YYYY-M-D ddd}}]]
+- Mini-summary
+
+- Notes

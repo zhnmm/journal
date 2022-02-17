@@ -1,11 +1,20 @@
+---
+author: 萨苏
+url: http://blog.sina.com.cn/s/blog_476745f6010006do.html http://blog.sina.com.cn/s/blog_476745f6010006dp.html
+publisher: 新浪博客
+status: 4-Mini-summary
+tags: 
+---
 - Metadata
-	- Author: 萨苏
-	- link: http://blog.sina.com.cn/s/blog_476745f6010006do.html http://blog.sina.com.cn/s/blog_476745f6010006dp.html
-	- Publisher: 新浪博客
-	- Date: [[2022-1-28 Fri]]
-	- Status: 
-	- Tag: 
-- content
+	- link: [[说书人中的五虎将 上_萨苏_新浪博客]][[说书人中的五虎将 下_用户1197950454_新浪博客]]
+	- date: [[2022-1-28 Fri]]
+- Mini-summary
+刘兰芳 《岳飞传》
+田连元 《杨家将》
+袁阔成 《三国演义》
+王刚 《神秘岛》
+单田芳 《隋唐演义》
+- Notes
 刘兰芳 《岳飞传》
 ![[说书人中的五虎将 上_萨苏_新浪博客#^9fe310]]
 ![[说书人中的五虎将 上_萨苏_新浪博客#^51745f]]

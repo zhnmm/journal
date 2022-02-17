@@ -4,25 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "69777753f23105e8",
+        "id": "bdee484b9bb3f35d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repository/jh-notes/titled/不卑不亢2.md",
+            "file": "daily-notes/2022-2-16 Wed.md",
             "mode": "preview",
-            "backlinks": true,
             "source": true
           }
         }
       },
       {
-        "id": "0aeae6b071b1ae4f",
+        "id": "2b85b1928f9b65e3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily-notes/2022-2-15 Tue.md",
+            "file": "notes/hm-IR.md",
             "mode": "preview",
             "source": true
           }
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2022-2-15 Tue.md",
+                "file": "notes/hm-IR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +96,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195
+    "width": 169
   },
-  "active": "0aeae6b071b1ae4f",
+  "active": "2b85b1928f9b65e3",
   "lastOpenFiles": [
-    "daily-notes/2022-2-15 Tue.md",
-    "repository/jh-notes/titled/不卑不亢2.md",
-    "index.md",
-    "repository/jh-notes/titled/不卑不亢1.md",
-    "repository/jh-notes/titled/不可论断人.md",
-    "repository/jh-notes/All/中国人和犹太人是世界上最聪明最勤奋的民族吗为什么二者的命运相差那么大-x10694273956y1018736941.md",
-    "repository/jh-notes/All/古代的许多大学问家仅仅通过思考就提出一些远远超出他们时代的理论靠的是运气吗-x9796631396y903182950.md",
-    "README.md",
-    "如何进行阅读及摘要.md",
-    "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md"
+    "notes/hm-IR.md",
+    "daily-notes/2022-2-16 Wed.md",
+    "notes/fury-IR.md",
+    "templates/jh-notes.md",
+    "templates/metadata.md",
+    "repository/jh-notes/titled/fury.md",
+    "notes/说书人中的五虎将-IR.md",
+    "notes/如何进行阅读及摘要-IR.md",
+    "repository/jh-notes/titled/mma.md",
+    "index.md"
   ]
 }
