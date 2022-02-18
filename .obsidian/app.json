@@ -7,5 +7,6 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
   "newFileLocation": "folder",
-  "newFileFolderPath": "notes"
+  "newFileFolderPath": "notes",
+  "promptDelete": false
 }

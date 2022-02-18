@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "bdee484b9bb3f35d",
+        "id": "b11778bd7c0043bd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily-notes/2022-2-16 Wed.md",
+            "file": "daily/2022-2-3 Thu.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "2b85b1928f9b65e3",
+        "id": "807dee110a6ef2c3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/hm-IR.md",
+            "file": "daily/2022-1-28 Fri.md",
             "mode": "preview",
             "source": true
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "不卑不亢",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/hm-IR.md",
+                "file": "daily/2022-2-3 Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "direction": "horizontal",
     "width": 169
   },
-  "active": "2b85b1928f9b65e3",
+  "active": "b11778bd7c0043bd",
   "lastOpenFiles": [
-    "notes/hm-IR.md",
-    "daily-notes/2022-2-16 Wed.md",
-    "notes/fury-IR.md",
-    "templates/jh-notes.md",
-    "templates/metadata.md",
-    "repository/jh-notes/titled/fury.md",
-    "notes/说书人中的五虎将-IR.md",
-    "notes/如何进行阅读及摘要-IR.md",
-    "repository/jh-notes/titled/mma.md",
-    "index.md"
+    "daily/2022-2-3 Thu.md",
+    "daily/2022-1-28 Fri.md",
+    "daily/2022-1-29 Sat.md",
+    "daily/2022-2-2 Wed.md",
+    "repository/jh-notes/titled/ufo.md",
+    "index.md",
+    "notes/ufo-IR.md",
+    "notes/3d打印-IR.md",
+    "notes/py4e-01-intro.md",
+    "notes/说书人中的五虎将-IR.md"
   ]
 }

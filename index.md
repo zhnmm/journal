@@ -2,9 +2,8 @@
 ## John Hexa
 ```dataview
 table file.inlinks
-from "repository/jh-notes/All" or "repository/jh-notes/titled"
-where length(file.inlinks) > 0
-sort length(file.inlinks)
+from outgoing([[repository/jh-notes/index]])
+where length(file.inlinks) > 1
 ```
 ## Python for Everybody
 ```dataview
@@ -19,8 +18,17 @@ table file.inlinks
 from "web"
 ```
 # 读书笔记
+## John Hexa
 ```dataview
-list
-from ""
-where author = "萨苏"
+table status
+from "notes"
+where author = "John Hexa"
+sort status
+```
+## Others
+```dataview
+table status
+from "notes"
+where author != "John Hexa"
+sort file.name
 ```
