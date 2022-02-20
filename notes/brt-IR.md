@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[brt]]
-	- date: [[2022-2-10 Thu]]
+	- date: [[2022-2-1]]
 - Mini-summary
 
 - Notes

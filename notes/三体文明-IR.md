@@ -2,15 +2,14 @@
 author: John Hexa
 url: https://github.com/itrewub/jh-notes
 publisher: jh-notes
-status: 0-IR | 1-Notes | 2-Bold passages | 3-Highlighted passages | 4-Mini-summary | 5-Remix
+status: 1-Notes
 tags: 
 ---
 - Metadata
 	- link: 
-	- date: [[{{date: YYYY-M}}-1]]
+	- date: [[ 2022-2-1]]
 # Mini-summary
 - xx
 - xx
 # Notes
-- xx
-- xx
+![[三体文明#^zmue5c]]

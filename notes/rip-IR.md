@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[rip]]
-	- date: [[ 2022-2-17 Thu]]
+	- date: [[ 2022-2-1]]
 - Mini-summary
 谋事在人，成事在天。
 - Notes

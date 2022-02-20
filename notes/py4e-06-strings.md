@@ -6,9 +6,10 @@ status: 1-Notes
 tags: 
 ---
 - Metadata
-	- link: [[02-variables]]
-	- date: [[2022-2-1]]
-- Mini-summary
-
-- Notes
-![[02-variables#助记变量命名法]]
+	- link: [[05-iterations]]
+	- date: [[ 2022-2-1]]
+# Mini-summary
+- xx
+- xx
+# Notes
+![[06-strings#string methods]]

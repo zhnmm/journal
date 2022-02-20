@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[批评]]
-	- date: [[ 2022-2-18 Fri]]
+	- date: [[ 2022-2-1]]
 # Mini-summary
 - 
 # Notes
