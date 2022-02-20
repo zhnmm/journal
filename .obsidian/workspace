@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-2-3 Thu.md",
-            "mode": "preview",
+            "file": "notes/Untitled.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "807dee110a6ef2c3",
+        "id": "8784ce9c8ab0480f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-1-28 Fri.md",
+            "file": "repository/jh-notes/titled/whatthen.md",
             "mode": "preview",
             "source": true
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "不卑不亢",
+                "query": "judge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-2-3 Thu.md",
+                "file": "notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "b11778bd7c0043bd",
   "lastOpenFiles": [
-    "daily/2022-2-3 Thu.md",
-    "daily/2022-1-28 Fri.md",
-    "daily/2022-1-29 Sat.md",
-    "daily/2022-2-2 Wed.md",
-    "repository/jh-notes/titled/ufo.md",
-    "index.md",
+    "notes/Untitled.md",
     "notes/ufo-IR.md",
-    "notes/3d打印-IR.md",
-    "notes/py4e-01-intro.md",
-    "notes/说书人中的五虎将-IR.md"
+    "templates/metadata.md",
+    "daily/template.md",
+    "daily/2022-2-18 Fri.md",
+    "daily/2022-2-17 Thu.md",
+    "repository/jh-notes/titled/whatthen.md",
+    "notes/不可论断人-IR.md",
+    "notes/批评-IR.md",
+    "repository/jh-notes/titled/不可论断人.md"
   ]
 }

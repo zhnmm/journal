@@ -7,7 +7,10 @@ tags:
 ---
 - Metadata
 	- link: 
-	- date: [[{{date: YYYY-M-D ddd}}]]
-- Mini-summary
-
-- Notes
+	- date: [[{{date-1d: YYYY-M-D ddd}}]]
+# Mini-summary
+- xx
+- xx
+# Notes
+- xx
+- xx
