@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b11778bd7c0043bd",
+        "id": "4a7f27035ee0b6fd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-2-1.md",
+            "file": "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-2-1.md",
+                "file": "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "direction": "horizontal",
     "width": 169
   },
-  "active": "b11778bd7c0043bd",
+  "active": "4a7f27035ee0b6fd",
   "lastOpenFiles": [
+    "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
+    "web/说书人中的五虎将 下_用户1197950454_新浪博客.md",
+    "web/说书人中的五虎将 上_萨苏_新浪博客.md",
+    "web/The Complete Guide to Time Blocking.md",
+    "daily/2022-1-28 Fri.md",
     "daily/2022-2-1.md",
-    "notes/三体文明-IR.md",
-    "repository/jh-notes/titled/三体文明.md",
-    "notes/批评-IR.md",
-    "notes/如何进行阅读及摘要-IR.md",
-    "notes/不可论断人-IR.md",
-    "notes/不卑不亢-IR.md",
-    "repository/jh-notes/titled/万米高楼.md",
-    "repository/jh-notes/titled/一秒钟.md",
-    "notes/py4e-06-strings.md"
+    "notes/三观可塑期-IR.md",
+    "repository/jh-notes/titled/三观可塑期.md",
+    "repository/jh-notes/titled/三流作家.md",
+    "notes/ufo-IR.md"
   ]
 }

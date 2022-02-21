@@ -6,10 +6,11 @@ status: 1-Notes
 tags: 
 ---
 - Metadata
-	- link: [[02-variables]]
-	- date: [[2022-2-1]]
+	- link: [[10-tuples]]
+	- date: [[ 2022-2-1]]
 # Mini-summary
 - xx
 - xx
 # Notes
-- ![[02-variables#助记变量命名法]]
+- ![[10-tuples#^349efc]]
+- ![[10-tuples#Sequences strings lists and tuples - Oh My]]

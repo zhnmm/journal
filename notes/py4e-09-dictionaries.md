@@ -6,10 +6,11 @@ status: 1-Notes
 tags: 
 ---
 - Metadata
-	- link: [[02-variables]]
-	- date: [[2022-2-1]]
+	- link: [[09-dictionaries]]
+	- date: [[ 2022-2-1]]
 # Mini-summary
 - xx
 - xx
 # Notes
-- ![[02-variables#助记变量命名法]]
+- ![[09-dictionaries#^659f13]]
+- ![[09-dictionaries#^d43eb9]]
