@@ -8,7 +8,7 @@
 
 显然目前正处在「阶段 3」：**知识管理要以「知识循环」为主要目的**。[文中总结道](https://sspai.com/post/67339)：
 
-![](https://cdn.sspai.com/2021/08/27/958284977128991e716841d2558d3586.png)
+![](media/958284977128991e716841d2558d3586.png)
 
 《[为什么推荐使用 Obsidian 做知识管理](https://sspai.com/post/67339)》
 
@@ -18,7 +18,7 @@
 
 当今社会「快速消费」已是社会共识，每个人都没有时间或没有精力去掌握更多的内容，仿佛谁能够快速将「精髓」喂给消费者谁就能胜出，不可否认这也有可取之处，但是总觉得这样是不正常的，在去年的 [一篇推文](https://twitter.com/xianzheshijian/status/1337713062975995905?s=20) 中探讨过这个问题：
 
-![](https://cdn.sspai.com/2021/08/27/2af66c07bb3f37d9fd7ffcccbf96c1e7.png)
+![](media/2af66c07bb3f37d9fd7ffcccbf96c1e7.png)
 
 [一篇推文](https://twitter.com/xianzheshijian/status/1337713062975995905?s=20)
 
@@ -33,7 +33,7 @@
 -   RSS 订阅的优势是你可以自己掌控资源。虽然高质量的频道已经不多。
 -   Inoreader 支持按照给定的「条件」进行筛选 RSS 新闻源，这样会屏蔽掉一些自己不感兴趣的内容，一个示例如图：
 
-![](https://cdn.sspai.com/2021/08/27/4f59951ab253d01f8cab7eaf71aa114c.png)
+![](media/4f59951ab253d01f8cab7eaf71aa114c.png)
 
 3\. 推荐使用支持「邮件订阅」的会员通讯录，例如 [MacStories](https://macstories.net/)、[一天世界](https://member.yitianshijie.net/) 等
 
@@ -46,7 +46,7 @@
 -   少数派相信我的读者大多知道，从最早的 Power+ 到现在的「少数派会员」，比较符合他们的 slogan 「高效工作，品质生活」。
 -   Medium 会员是我长期订阅付费的服务，每年 50 美金虽然不便宜，但是无论是技术方案还是行业资讯都可以找到很多高质量的第一手资料。在 Medium 上可以订阅各种你感兴趣的话题和作者，并能够随时收到他们的更新。
 
-![](https://cdn.sspai.com/2021/08/27/5871cf8bab5ac3acec9e047713240a17.png)
+![](media/5871cf8bab5ac3acec9e047713240a17.png)
 
 5\. 卸载一些内容低劣的平台。
 
@@ -73,32 +73,32 @@ Roam-highlighter 是一款 Chrome 插件，它支持我们对页面内容以「�
 -   Roam-highlighter 支持通过快捷键进行选中高亮，方便在不影响阅读的同时进行摘录。
 -   Roam-highlighter 可以最大限度的保留原文中高亮内容的层级，如图：
 
-![](https://cdn.sspai.com/2021/08/27/c57e52c79ab5323d394f510a440a0929.png)
+![](media/c57e52c79ab5323d394f510a440a0929.png)
 
 -   Roam-highlighter 支持将摘录的内容中词语直接设置成「双向链接」格式，如图：
 
-![](https://cdn.sspai.com/2021/08/27/e01887c1990e1d0632f6ef7a5c7cef3f.png)
+![](media/e01887c1990e1d0632f6ef7a5c7cef3f.png)
 
 -   Roam-highlighter 使用 markdown 保留原文中的超链接、加粗等格式，如图：
 
-![](https://cdn.sspai.com/2021/08/27/b1f1a6d818fc30d694e1eef225d1c1c4.png)
+![](media/b1f1a6d818fc30d694e1eef225d1c1c4.png)
 
 **Roam-highlighter 也有几个缺点：**
 
 -   无法对文章的图片进行摘录（PS：这一点对于一个 Highlight 软件来说有点为难）。
 -   在某些情况下多于 3 层的结构无法正常保存，即使通过快捷键调整后也依然无法解决，如图：
 
-![](https://cdn.sspai.com/2021/08/27/03adaf0fbfcbf60a6067dac4e1cd1524.png)
+![](media/03adaf0fbfcbf60a6067dac4e1cd1524.png)
 
 -   对于部分文章中存在的「特殊格式」内容，无法高质量的摘录（例如：出现格式错乱），如图：
 
-![](https://cdn.sspai.com/2021/08/27/93a2188fb56b153e87d5992fa0c4aa5c.png)
+![](media/93a2188fb56b153e87d5992fa0c4aa5c.png)
 
 ### 如何使用 Roam-highlighter 
 
 首先在 Chrome 上通过菜单栏打开 Roam-highlighter 后如图：
 
-![](https://cdn.sspai.com/2021/08/27/70e7ac8a103d18cb5932c5eb35d9b880.png)
+![](media/70e7ac8a103d18cb5932c5eb35d9b880.png)
 
 启动 Roam-highlighter
 
@@ -108,7 +108,7 @@ Roam-highlighter 是一款 Chrome 插件，它支持我们对页面内容以「�
 
 为了方便的快速导入到 Obsidian 中，需要先对 Roam-highlighter 做一下设置（点击「摘录区」的 Setting 按钮），设置内容如下：
 
-![](https://cdn.sspai.com/2021/08/27/7e868602d8e7f39bdf75b0fc709ff629.png)
+![](media/7e868602d8e7f39bdf75b0fc709ff629.png)
 
 上图中一共有 5 个地方需要设置，分别对应图中标号 1-5:
 
@@ -120,7 +120,7 @@ Roam-highlighter 是一款 Chrome 插件，它支持我们对页面内容以「�
 
 4\. 「子弹笔记样式」：将高亮内容保存成「子弹笔记」样式方便拷贝到 Obsidian 中，如图：
 
-![](https://cdn.sspai.com/2021/08/27/5a8eb52310bfc98fe4a3c45acc9cdd54.png)
+![](media/5a8eb52310bfc98fe4a3c45acc9cdd54.png)
 
 1.  子弹笔记即摘要内容每行都以 - 开头
 2.  在设置中将 Bullets 的内容设置为为 `-` ，注意 `-` 后边有一个「空格」。
@@ -137,23 +137,23 @@ Roam-highlighter 是一款 Chrome 插件，它支持我们对页面内容以「�
 
 如果我们在「摘录」过程中发现被高亮的内容在「摘录区」的换行不对时，通常需要在设置中对「How to handle Line Breaks within each Highlight」这一行选择「Replace with single space」即可，如图：
 
-![](https://cdn.sspai.com/2021/08/27/ecd15ce56a201db558e5a8b699f37f8a.png)
+![](media/ecd15ce56a201db558e5a8b699f37f8a.png)
 
 修改设置后，样式正常如图：
 
-![](https://cdn.sspai.com/2021/08/27/a65526f829228b0ff2cf83f51e74816f.png)
+![](media/a65526f829228b0ff2cf83f51e74816f.png)
 
 #### **开始摘录**
 
 如果我们是第一次打开 Roam-highlighter 窗口，会默认显示它的快捷键设置，如图：
 
-![](https://cdn.sspai.com/2021/08/27/a5cafa3af38e78b1d1a83ce734c03d52.png)
+![](media/a5cafa3af38e78b1d1a83ce734c03d52.png)
 
 开始摘录
 
 接下来我们只需要选中需要「高亮」的内容，然后按下快捷键「CMD + X」（Win 下是 Ctrl+x） Roam-highlighter 会自动将选中内容设置为高亮颜色，同时被高亮的内容保存到「摘录区」。接下来的事情就是不停重复操作，一边阅读一边摘录，如图：
 
-![](https://cdn.sspai.com/2021/08/27/b31d24f1207b1764c94705c58d7e197a.png)
+![](media/b31d24f1207b1764c94705c58d7e197a.png)
 
  Roam-highlighter 为了方便我们进行摘录，提供了许多快捷键，例如刚才提到的「CMD + X」，接下来我们介绍一下常用快捷键使用。
 
@@ -169,13 +169,13 @@ ALT + Q ：移除「原文区」所有已经高亮的内容，同时也清空「
 
 ALT + A ：当在「原文区」再次选中「已经高亮」的内容时，按下快捷键会将该高亮内容设为「标题样式」，即后续再选中高亮的内容都在这个「标题」之下，如图：
 
-![](https://cdn.sspai.com/2021/08/27/3f8353968ddd8e96db7f97c9a56402de.png)
+![](media/3f8353968ddd8e96db7f97c9a56402de.png)
 
 > _对于「选中的高亮区域」持续按「ALT +A」，它的层级会一直变化，在有些摘录场景中可能会用得到，感兴趣的话自己试一下。_
 
 Double-Click：在「原文区」已经高亮的内容行中，双击后鼠标后，会自动选中附近的词语，同时将该词语设置成「双向链接」的形式，如图：
 
-![](https://cdn.sspai.com/2021/08/27/230f08b3aecf0f5946e009b1646a72f3.png)
+![](media/230f08b3aecf0f5946e009b1646a72f3.png)
 
 ALT + Z ：等同于「Double-Click」，在「原文区」已经高亮的内容行中，选中一段词语后按下快捷键，该词会被设置成「双向链接」形式。
 
@@ -183,7 +183,7 @@ ALT + Z ：等同于「Double-Click」，在「原文区」已经高亮的内容
 
 随着每次摘录新内容，右侧的「摘录区」内容就会增加，同时还会自动内容到「剪贴板」，当我们完成一篇文章摘录之后，大概的样子如下：
 
-![](https://cdn.sspai.com/2021/08/27/7b5bdcb52f2a44e027d4ae416a19121f.png)
+![](media/7b5bdcb52f2a44e027d4ae416a19121f.png)
 
 1.  「摘录区」保存着所有高亮的内容。
 2.  「摘录区」保留着原文中的层级关系（支持我们使用 ALT +A 进行微调）。
@@ -191,7 +191,7 @@ ALT + Z ：等同于「Double-Click」，在「原文区」已经高亮的内容
 
 接下来我们在 Obsidian 中新建一篇笔记，同时为了方便对摘录内容保存，我们设置好 metadata。这里可以使用 Obsidian 中的模板功能，我的 metadata 格式如下：
 
-![](https://cdn.sspai.com/2021/08/27/9ac3e8c65f82bd02c306b6d87cd42a49.png)
+![](media/9ac3e8c65f82bd02c306b6d87cd42a49.png)
 
 Metadata 模板
 
@@ -201,29 +201,29 @@ Metadata 模板
 
 1\.  在 Obsidian 的设置中开启「核心插件」中的「模板开关」： 
 
-![](https://cdn.sspai.com/2021/08/27/74b7ee96e651b3ae27507545c83ab514.png)
+![](media/74b7ee96e651b3ae27507545c83ab514.png)
 
 2\. 单独设置模板的变量格式：
 
-![](https://cdn.sspai.com/2021/08/27/faa8a2b775bf8808a1bf665f6d5749a2.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1)
+![](media/faa8a2b775bf8808a1bf665f6d5749a2.png)
 
 3\. 新建「Metadata」文件，并设置模板内容：
 
-![](https://cdn.sspai.com/2021/08/27/7acdcd672ea99a0623133b4fa72cc6d5.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1)
+![](media/7acdcd672ea99a0623133b4fa72cc6d5.png)
 
 4\. 新建一篇笔记，点击左侧按钮中的「插入模板」，即可将「模板」插入到笔记中：
 
-![](https://cdn.sspai.com/2021/08/27/c19aa470e49f37bd54592bc8bf75abcf.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1)
+![](media/c19aa470e49f37bd54592bc8bf75abcf.png)
 
 在完善了 metadata 信息后，将刚才摘录的原文粘贴完成后格式如下：
 
-![](https://cdn.sspai.com/2021/08/27/84d25ace2385c73cad3b0098322b3802.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1)
+![](media/84d25ace2385c73cad3b0098322b3802.png)
 
 ### 总结
 
 下图中内容出自「[TIAGO FORTE](https://fortelabs.co/)」的那篇著名的《[Progressive Summarization: A Practical Technique for Designing Discoverable Notes](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes/)》，翻译过来：「渐进式总结。设计可发现笔记的实用技术」。
 
-![](https://cdn.sspai.com/2021/08/27/ce28c21a24d08f8f4c147314fd0f1029.png?imageView2/2/w/1120/q/40/interlace/1/ignore-error/1)
+![](media/ce28c21a24d08f8f4c147314fd0f1029.png)
 
 这段的大意指的是：身处数字世界的我们，「如何获取信息」甚至「通过工具摘录信息」，都不在是困难的事（正如本篇介绍使用 Obsidian 和 Roam-highlighter 进行摘录）。[TIAGO FORTE](https://fortelabs.co/) 提出现阶段「知识管理」真正的困难是「如何将信息传递给未来的我们」。
 

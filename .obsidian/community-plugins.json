@@ -1,4 +1,6 @@
 [
   "ProxyGithub",
-  "dataview"
+  "dataview",
+  "obsidian-copy-block-link",
+  "obsidian-local-images"
 ]

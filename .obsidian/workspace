@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "27045b3ed22b6ab8",
+        "id": "4a7f27035ee0b6fd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repository/py4e-cn/book3/01-intro.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "0182f33c6d8d1ac0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index2.md",
+            "file": "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
             "mode": "preview",
             "source": true
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "judge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index2.md",
+                "file": "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195
+    "width": 169
   },
-  "active": "0182f33c6d8d1ac0",
+  "active": "4a7f27035ee0b6fd",
   "lastOpenFiles": [
-    "index2.md",
-    "daily-notes/2022-2-14 Mon.md",
-    "daily-notes/2022-2-10 Thu.md",
-    "repository/py4e-cn/book3/01-intro.md",
-    "如何进行阅读及摘要.md",
     "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
-    "说书人中的五虎将.md",
-    "daily-notes/2022-1-28 Fri.md",
+    "web/说书人中的五虎将 下_用户1197950454_新浪博客.md",
+    "web/说书人中的五虎将 上_萨苏_新浪博客.md",
     "web/The Complete Guide to Time Blocking.md",
-    "daily-notes/2022-01-29.md"
+    "daily/2022-1-28 Fri.md",
+    "daily/2022-2-1.md",
+    "notes/三观可塑期-IR.md",
+    "repository/jh-notes/titled/三观可塑期.md",
+    "repository/jh-notes/titled/三流作家.md",
+    "notes/ufo-IR.md"
   ]
 }

@@ -4,5 +4,9 @@
   "defaultViewMode": "preview",
   "showLineNumber": true,
   "communityPluginSortOrder": "alphabetical",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "promptDelete": false
 }
