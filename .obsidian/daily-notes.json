@@ -1,6 +1,6 @@
 {
   "autorun": false,
   "folder": "daily",
-  "format": "YYYY-M-D",
+  "format": "YYYY-MM-DD",
   "template": "daily/template.md"
 }

@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: 
-	- date: [[{{date: YYYY-M}}-1]]
+	- date: [[{{date: YYYY-MM}}-01]]
 # Mini-summary
 - xx
 - xx
