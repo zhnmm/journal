@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[三观可塑期]]
-	- date: [[ 2022-02-01]]
+	- date: [[ 2022-02-19]]
 # Mini-summary
 - xx
 - xx

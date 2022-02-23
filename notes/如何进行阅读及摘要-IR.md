@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[玩转 Obsidian 05：如何进行阅读及摘要 - 少数派]]
-	- date: [[2022-02-01]]
+	- date: [[2022-02-12]]
 - Mini-summary
 
 - Notes

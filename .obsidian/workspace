@@ -4,16 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "523b410ae403468c",
+        "id": "6e0d7bec71edccec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/metadata.md",
+            "file": "repository/Obsidian Help/使用指南/多笔记协同.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "c722ef7cb52352aa"
+      },
+      {
+        "id": "23a292db7a85cb82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "repository/Obsidian Help/使用指南/多笔记协同.md",
             "mode": "source",
             "source": true
           }
-        }
+        },
+        "group": "c722ef7cb52352aa"
       }
     ],
     "direction": "vertical"
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/metadata.md",
+                "file": "repository/Obsidian Help/使用指南/多笔记协同.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +100,17 @@
     "direction": "horizontal",
     "width": 169
   },
-  "active": "523b410ae403468c",
+  "active": "23a292db7a85cb82",
   "lastOpenFiles": [
-    "templates/metadata.md",
-    "daily/2022-02-01.md",
-    "notes/fury-IR.md",
-    "notes/不可论断人-IR.md",
-    "notes/批评-IR.md",
-    "repository/jh-notes/titled/不可论断人.md",
-    "notes/三观可塑期-IR.md",
+    "repository/Obsidian Help/使用指南/多笔记协同.md",
+    "repository/Obsidian Help/个性化定制/外观.md",
+    "repository/Obsidian Help/由此开始.md",
+    "daily/2022-02-26.md",
     "daily/template.md",
-    "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
-    "web/说书人中的五虎将 下_用户1197950454_新浪博客.md"
+    "daily/2022-01-01.md",
+    "daily/2022-02-19.md",
+    "daily/2022-02-12.md",
+    "daily/2022-01-29.md",
+    "daily/2022-02-05.md"
   ]
 }

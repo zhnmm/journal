@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[14-objects]]
-	- date: [[ 2022-02-01]]
+	- date: [[ 2022-02-12]]
 # Mini-summary
 - xx
 - xx

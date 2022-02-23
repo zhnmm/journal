@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[5g]]
-	- date: [[ 2022-02-01]]
+	- date: [[2022-02-05]]
 # Mini-summary
 - xx
 - xx

@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[10-tuples]]
-	- date: [[ 2022-02-01]]
+	- date: [[ 2022-02-12]]
 # Mini-summary
 - xx
 - xx

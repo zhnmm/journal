@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[whatthen]]
-	- date: [[ 2022-02-01]]
+	- date: [[ 2022-02-26]]
 # Mini-summary
 - xx
 - xx

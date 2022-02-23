@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[3d打印]]
-	- date: [[2022-1-28 Fri]]
+	- date: [[2022-01-29]]
 - Mini-summary
 
 - Notes

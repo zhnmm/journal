@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[fury]]
-	- date: [[ 2022-02-01]]
+	- date: [[ 2022-02-19]]
 - Mini-summary
 
 - Notes

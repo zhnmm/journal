@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[02-variables]]
-	- date: [[2022-02-01]]
+	- date: [[2022-02-05]]
 # Mini-summary
 - xx
 - xx
