@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: 
-	- date: [[{{date:YYYY-MM}}-26]]
+	- date: [[2022-03-05]]
 # Mini-summary
 - xx
 - xx

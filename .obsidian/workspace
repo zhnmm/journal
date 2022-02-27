@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0d7bec71edccec",
+        "id": "6ae7744c550f7d68",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repository/Obsidian Help/使用指南/多笔记协同.md",
+            "file": "daily/2022-03-05.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "c722ef7cb52352aa"
+        "group": "857b702de2b30845"
       },
       {
-        "id": "23a292db7a85cb82",
+        "id": "c190b43ae6b5d8a0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repository/Obsidian Help/使用指南/多笔记协同.md",
+            "file": "daily/2022-03-05.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "c722ef7cb52352aa"
+        "group": "857b702de2b30845"
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "repository/Obsidian Help/使用指南/多笔记协同.md",
+                "file": "daily/2022-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +100,17 @@
     "direction": "horizontal",
     "width": 169
   },
-  "active": "23a292db7a85cb82",
+  "active": "6ae7744c550f7d68",
   "lastOpenFiles": [
-    "repository/Obsidian Help/使用指南/多笔记协同.md",
-    "repository/Obsidian Help/个性化定制/外观.md",
-    "repository/Obsidian Help/由此开始.md",
+    "daily/2022-03-05.md",
+    "notes/一事无成-IR.md",
+    "repository/jh-notes/titled/一事无成.md",
     "daily/2022-02-26.md",
-    "daily/template.md",
     "daily/2022-01-01.md",
-    "daily/2022-02-19.md",
-    "daily/2022-02-12.md",
+    "daily/template.md",
     "daily/2022-01-29.md",
-    "daily/2022-02-05.md"
+    "daily/2022-02-05.md",
+    "daily/2022-02-12.md",
+    "daily/2022-02-19.md"
   ]
 }

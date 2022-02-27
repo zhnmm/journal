@@ -6,8 +6,8 @@ status: 0-IR
 tags: 
 ---
 - Metadata
-	- link: 
-	- date: [[template]]
+	- link: [[一事无成]]
+	- date: [[2022-03-05]]
 # Mini-summary
 - xx
 - xx

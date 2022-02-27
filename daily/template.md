@@ -1,6 +1,6 @@
 %%Goal: [[2022-01-01]]%%
 #  Time for my weekly review ⏰
-- [ ] Set file&template name: `= date(sow)+dur(5 day)`
+- [ ] Set file&template name: `= date(eow)+dur(5d, 1s)`
 
 # Plan
 - [ ] Open your This Week view to see all tasks you have due this week
@@ -62,7 +62,7 @@ sort status
 > ```dataview
 task
 from outgoing([[]])
-where due <= date(this.file.name) + dur(7 d)
+where due <= date(this.file.name) + dur(10 d)
 and due
 and !completed
 group by header
@@ -87,7 +87,7 @@ group by header
 >```dataview
 task
 from outgoing([[]])
-where (due > date(this.file.name) + dur(7 d)
+where (due > date(this.file.name) + dur(8 d)
 or !due)
 and !completed
 and !waiting_for
