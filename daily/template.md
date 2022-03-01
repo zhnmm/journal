@@ -51,7 +51,7 @@ group by header
 > IR
 > ```dataview
 table status, author
-from [[]]
+from [[]] and "notes"
 where status != "0-IR"
 sort status
 

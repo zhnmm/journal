@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-03-05.md",
+            "file": "daily/2022-02-26.md",
             "mode": "preview",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-03-05.md",
+            "file": "daily/2022-02-26.md",
             "mode": "source",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-03-05.md",
+                "file": "daily/2022-02-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "6ae7744c550f7d68",
   "lastOpenFiles": [
+    "daily/2022-02-26.md",
     "daily/2022-03-05.md",
+    "daily/template.md",
+    "templates/metadata.md",
     "notes/一事无成-IR.md",
     "repository/jh-notes/titled/一事无成.md",
-    "daily/2022-02-26.md",
+    "repository/jh-notes/titled/一亿一天.md",
     "daily/2022-01-01.md",
-    "daily/template.md",
     "daily/2022-01-29.md",
-    "daily/2022-02-05.md",
-    "daily/2022-02-12.md",
-    "daily/2022-02-19.md"
+    "daily/2022-02-05.md"
   ]
 }
