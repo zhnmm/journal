@@ -4,30 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "6ae7744c550f7d68",
+        "id": "01ab8ee0f2ac4bba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-02-26.md",
+            "file": "daily/2022-03-05.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "857b702de2b30845"
+        "group": "4dbf7d2cf7bb1a1c"
       },
       {
-        "id": "c190b43ae6b5d8a0",
+        "id": "235cfc0e07953834",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-02-26.md",
+            "file": "daily/2022-03-05.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "857b702de2b30845"
+        "group": "4dbf7d2cf7bb1a1c"
       }
     ],
     "direction": "vertical"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-02-26.md",
+                "file": "daily/2022-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +100,17 @@
     "direction": "horizontal",
     "width": 169
   },
-  "active": "6ae7744c550f7d68",
+  "active": "235cfc0e07953834",
   "lastOpenFiles": [
-    "daily/2022-02-26.md",
     "daily/2022-03-05.md",
-    "daily/template.md",
-    "templates/metadata.md",
-    "notes/一事无成-IR.md",
-    "repository/jh-notes/titled/一事无成.md",
-    "repository/jh-notes/titled/一亿一天.md",
-    "daily/2022-01-01.md",
-    "daily/2022-01-29.md",
-    "daily/2022-02-05.md"
+    "repository/jh-notes/titled/反犹.md",
+    "notes/反犹-IR.md",
+    "index.md",
+    "notes/首钢滑雪大跳台.md",
+    "notes/Python-BeautifulSoup.md",
+    "web/BeautifulSoup在使用时给了我许多错误行 - 我爱学习网.md",
+    "web/8 Strategies to Set & Track Your Goals in Todoist.md",
+    "daily/2022-02-26.md",
+    "daily/template.md"
   ]
 }

@@ -1,9 +1,11 @@
 # Repository
 ## John Hexa
 ```dataview
-table file.inlinks
+table file.size
 from outgoing([[repository/jh-notes/index]])
-where length(file.inlinks) > 1
+where length(file.inlinks) = 1
+sort file.size desc
+limit 10
 ```
 ## Python for Everybody
 ```dataview
@@ -16,19 +18,4 @@ sort file.name
 ```dataview
 table file.inlinks
 from "web"
-```
-# 读书笔记
-## John Hexa
-```dataview
-table status
-from "notes"
-where author = "John Hexa"
-sort status
-```
-## Others
-```dataview
-table status
-from "notes"
-where author != "John Hexa"
-sort file.name
 ```
