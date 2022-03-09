@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-03-05.md",
+            "file": "daily/2022-03-12.md",
             "mode": "preview",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-03-05.md",
+            "file": "daily/2022-03-12.md",
             "mode": "source",
             "source": true
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-03-05.md",
+                "file": "daily/2022-03-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +102,15 @@
   },
   "active": "235cfc0e07953834",
   "lastOpenFiles": [
+    "daily/2022-03-12.md",
+    "daily/template.md",
+    "notes/精通儒释道-IR.md",
+    "notes/可控核聚变-IR.md",
+    "repository/jh-notes/titled/可控核聚变.md",
+    "repository/jh-notes/titled/精通儒释道.md",
     "daily/2022-03-05.md",
-    "repository/jh-notes/titled/反犹.md",
-    "notes/反犹-IR.md",
-    "index.md",
-    "notes/首钢滑雪大跳台.md",
-    "notes/Python-BeautifulSoup.md",
-    "web/BeautifulSoup在使用时给了我许多错误行 - 我爱学习网.md",
-    "web/8 Strategies to Set & Track Your Goals in Todoist.md",
-    "daily/2022-02-26.md",
-    "daily/template.md"
+    "daily/2022-01-01.md",
+    "templates/metadata.md",
+    "daily/2022-02-26.md"
   ]
 }
