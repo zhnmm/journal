@@ -6,28 +6,43 @@
       {
         "id": "01ab8ee0f2ac4bba",
         "type": "leaf",
+        "dimension": 30.10813887307911,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-03-19.md",
+            "file": "daily/2022-03-26.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "4dbf7d2cf7bb1a1c"
+        "group": "f3d6834362904015"
       },
       {
-        "id": "235cfc0e07953834",
+        "id": "189e0f6bfb7c6175",
         "type": "leaf",
+        "dimension": 31.701764371087084,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-03-19.md",
+            "file": "daily/2022-03-26.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "4dbf7d2cf7bb1a1c"
+        "group": "f3d6834362904015"
+      },
+      {
+        "id": "9cc6e55d5139b7a4",
+        "type": "leaf",
+        "dimension": 38.19009675583381,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "repository/jh-notes/titled/不原谅的诅咒.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203
+    "width": 167
   },
   "right": {
     "id": "4dc985952e4650b5",
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-03-19.md",
+                "file": "daily/2022-03-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 169
+    "width": 206.33334350585938,
+    "collapsed": true
   },
-  "active": "235cfc0e07953834",
+  "active": "01ab8ee0f2ac4bba",
   "lastOpenFiles": [
+    "daily/2022-03-26.md",
+    "repository/jh-notes/titled/不原谅的诅咒.md",
+    "notes/不原谅的诅咒-IR.md",
+    "repository/jh-notes/titled/不准参赛.md",
     "daily/2022-03-19.md",
-    "daily/2022-03-12.md",
     "daily/2022-01-01.md",
-    "templates/metadata.md",
-    "daily/template.md",
-    "daily/2022-02-26.md",
-    "daily/2022-03-05.md",
-    "notes/服从-IR.md",
-    "notes/批评-IR.md",
-    "repository/jh-notes/titled/服从.md"
+    "repository/jh-notes/titled/上策.md",
+    "notes/上策-IR.md",
+    "repository/jh-notes/titled/下药.md",
+    "repository/jh-notes/titled/下一轮.md"
   ]
 }
