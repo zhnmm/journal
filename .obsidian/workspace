@@ -4,42 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "01ab8ee0f2ac4bba",
+        "id": "6500cea702594482",
         "type": "leaf",
-        "dimension": 30.10813887307911,
+        "dimension": 30.763358778625953,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-03-26.md",
+            "file": "daily/2022-07-02.md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "f3d6834362904015"
+        "group": "c6a2ca467b901507"
       },
       {
-        "id": "189e0f6bfb7c6175",
+        "id": "fe39c03502ef3e12",
         "type": "leaf",
-        "dimension": 31.701764371087084,
+        "dimension": 34.61832061068702,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-03-26.md",
+            "file": "daily/2022-07-02.md",
             "mode": "preview",
             "source": true
           }
         },
-        "group": "f3d6834362904015"
+        "group": "c6a2ca467b901507"
       },
       {
-        "id": "9cc6e55d5139b7a4",
+        "id": "bc0adbdb751bd4e8",
         "type": "leaf",
-        "dimension": 38.19009675583381,
+        "dimension": 34.61832061068702,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "repository/jh-notes/titled/不原谅的诅咒.md",
-            "mode": "preview",
+            "file": "notes/拖拉机-IR.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "judge",
+                "query": "tag:#Science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,19 +93,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70a2baf27aefd303",
+            "id": "bf4979d782013359",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5c14a16788a54ba",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-03-26.md",
+                "file": "daily/2022-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -113,20 +124,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.33334350585938,
+    "width": 200.33334350585938,
     "collapsed": true
   },
-  "active": "01ab8ee0f2ac4bba",
+  "active": "fe39c03502ef3e12",
   "lastOpenFiles": [
-    "daily/2022-03-26.md",
-    "repository/jh-notes/titled/不原谅的诅咒.md",
-    "notes/不原谅的诅咒-IR.md",
-    "repository/jh-notes/titled/不准参赛.md",
-    "daily/2022-03-19.md",
+    "daily/2022-07-02.md",
+    "repository/jh-notes/titled/拖拉机.md",
+    "notes/拖拉机-IR.md",
+    "repository/jh-notes/titled/不喜欢.md",
     "daily/2022-01-01.md",
-    "repository/jh-notes/titled/上策.md",
-    "notes/上策-IR.md",
-    "repository/jh-notes/titled/下药.md",
-    "repository/jh-notes/titled/下一轮.md"
+    "daily/template.md",
+    "daily/2022-06-25.md",
+    "templates/metadata.md",
+    "repository/jh-notes/titled/下属不满.md",
+    "notes/下属不满-IR.md"
   ]
 }
