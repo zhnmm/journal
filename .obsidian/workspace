@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "7e673dc1dd1e7be0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a7f27035ee0b6fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a52abe7fe41108f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dfca577d4e0180b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "845314a6097c06db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6af6143b760ef589",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "judge",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "right": {
+    "id": "4dc985952e4650b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dfc75e9af02166a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70a2baf27aefd303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 169
+  },
+  "active": "4a7f27035ee0b6fd",
+  "lastOpenFiles": [
+    "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
+    "web/说书人中的五虎将 下_用户1197950454_新浪博客.md",
+    "web/说书人中的五虎将 上_萨苏_新浪博客.md",
+    "web/The Complete Guide to Time Blocking.md",
+    "daily/2022-1-28 Fri.md",
+    "daily/2022-2-1.md",
+    "notes/三观可塑期-IR.md",
+    "repository/jh-notes/titled/三观可塑期.md",
+    "repository/jh-notes/titled/三流作家.md",
+    "notes/ufo-IR.md"
+  ]
+}

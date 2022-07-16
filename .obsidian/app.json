@@ -1,0 +1,12 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "communityPluginSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "promptDelete": false
+}
