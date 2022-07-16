@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link:  [[不卑不亢1]][[不卑不亢2]]
-	- date: [[2022-2-1]]
+	- date: [[2022-02-19]]
 - Mini-summary
 
 - Notes

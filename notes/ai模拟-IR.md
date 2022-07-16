@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[ai模拟]]
-	- date: [[2022-2-1]]
+	- date: [[2022-02-12]]
 - Mini-summary
 
 - Notes

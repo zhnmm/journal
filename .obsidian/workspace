@@ -4,12 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "4a7f27035ee0b6fd",
+        "id": "6500cea702594482",
         "type": "leaf",
+        "dimension": 30.763358778625953,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
+            "file": "notes/正确的专制和民主哪个更好-IR.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "c6a2ca467b901507"
+      },
+      {
+        "id": "fe39c03502ef3e12",
+        "type": "leaf",
+        "dimension": 34.61832061068702,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "notes/正确的专制和民主哪个更好-IR.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "c6a2ca467b901507"
+      },
+      {
+        "id": "bc0adbdb751bd4e8",
+        "type": "leaf",
+        "dimension": 34.61832061068702,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "repository/jh-notes/All/正确的专制和民主哪个更好-x10272013305y640442810.md",
             "mode": "preview",
             "source": true
           }
@@ -40,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "judge",
+                "query": "tag:#Science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 167
   },
   "right": {
     "id": "4dc985952e4650b5",
@@ -64,19 +93,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70a2baf27aefd303",
+            "id": "bf4979d782013359",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5c14a16788a54ba",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
+                "file": "repository/jh-notes/All/正确的专制和民主哪个更好-x10272013305y640442810.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -84,19 +124,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 169
+    "width": 200.33334350585938,
+    "collapsed": true
   },
-  "active": "4a7f27035ee0b6fd",
+  "active": "bc0adbdb751bd4e8",
   "lastOpenFiles": [
-    "web/玩转 Obsidian 05：如何进行阅读及摘要 - 少数派.md",
-    "web/说书人中的五虎将 下_用户1197950454_新浪博客.md",
-    "web/说书人中的五虎将 上_萨苏_新浪博客.md",
-    "web/The Complete Guide to Time Blocking.md",
-    "daily/2022-1-28 Fri.md",
-    "daily/2022-2-1.md",
-    "notes/三观可塑期-IR.md",
-    "repository/jh-notes/titled/三观可塑期.md",
-    "repository/jh-notes/titled/三流作家.md",
-    "notes/ufo-IR.md"
+    "repository/jh-notes/All/正确的专制和民主哪个更好-x10272013305y640442810.md",
+    "notes/正确的专制和民主哪个更好-IR.md",
+    "daily/2022-07-16.md",
+    "daily/2022-01-01.md",
+    "repository/jh-notes/titled/不在乎.md",
+    "notes/不在乎-IR.md",
+    "daily/template.md",
+    "templates/metadata.md",
+    "daily/2022-07-09.md",
+    "daily/2022-06-25.md"
   ]
 }

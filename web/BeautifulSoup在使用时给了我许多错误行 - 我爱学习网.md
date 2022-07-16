@@ -58,3 +58,13 @@ Process finished with exit code 1
 ```
 
 错误消息中引用的行来自bs4中作为其一部分下载的文件。我没有编辑过任何包含bs4的文件，甚至没有碰过它们。有人能帮我弄清楚为什么bs4不工作吗？
+
+# 回答
+你在用python3.10吗？看起来beautifulsoup库正在使用已删除的不推荐使用的别名来收集抽象基类。更多信息请点击此处：https://docs.python.org/3/whatsnew/3.10 。html#已删除
+
+快速修复方法是将以下两行粘贴到导入的正下方：
+
+```
+import collections
+collections.Callable = collections.abc.Callable
+```

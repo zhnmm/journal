@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[12-network]]
-	- date: [[ 2022-2-1]]
+	- date: [[ 2022-02-12]]
 # Mini-summary
 - xx
 - xx

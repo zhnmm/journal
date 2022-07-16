@@ -7,7 +7,7 @@ tags:
 ---
 - Metadata
 	- link: [[09-dictionaries]]
-	- date: [[ 2022-2-1]]
+	- date: [[ 2022-02-19]]
 # Mini-summary
 - xx
 - xx
