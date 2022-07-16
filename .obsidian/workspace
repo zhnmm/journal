@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-07-02.md",
+            "file": "notes/正确的专制和民主哪个更好-IR.md",
             "mode": "source",
             "source": true
           }
@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2022-07-02.md",
-            "mode": "preview",
+            "file": "notes/正确的专制和民主哪个更好-IR.md",
+            "mode": "source",
             "source": true
           }
         },
@@ -38,8 +38,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/拖拉机-IR.md",
-            "mode": "source",
+            "file": "repository/jh-notes/All/正确的专制和民主哪个更好-x10272013305y640442810.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2022-07-02.md",
+                "file": "repository/jh-notes/All/正确的专制和民主哪个更好-x10272013305y640442810.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +127,17 @@
     "width": 200.33334350585938,
     "collapsed": true
   },
-  "active": "fe39c03502ef3e12",
+  "active": "bc0adbdb751bd4e8",
   "lastOpenFiles": [
-    "daily/2022-07-02.md",
-    "repository/jh-notes/titled/拖拉机.md",
-    "notes/拖拉机-IR.md",
-    "repository/jh-notes/titled/不喜欢.md",
+    "repository/jh-notes/All/正确的专制和民主哪个更好-x10272013305y640442810.md",
+    "notes/正确的专制和民主哪个更好-IR.md",
+    "daily/2022-07-16.md",
     "daily/2022-01-01.md",
+    "repository/jh-notes/titled/不在乎.md",
+    "notes/不在乎-IR.md",
     "daily/template.md",
-    "daily/2022-06-25.md",
     "templates/metadata.md",
-    "repository/jh-notes/titled/下属不满.md",
-    "notes/下属不满-IR.md"
+    "daily/2022-07-09.md",
+    "daily/2022-06-25.md"
   ]
 }
