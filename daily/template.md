@@ -93,7 +93,7 @@ group by header
 >```dataview
 task
 from outgoing([[]])
-where (due > date(this.file.name) + dur(8 d)
+where (due > date(this.file.name) + dur(28 d)
 or !due)
 and !completed
 and !waiting_for

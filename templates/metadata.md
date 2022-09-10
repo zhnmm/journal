@@ -6,7 +6,7 @@ status: 0-IR | 1-Notes | 2-Bold passages | 3-Highlighted passages | 4-Mini-summa
 ---
 - Metadata
 	- link: 
-	- date: [[2022-07-16]]
+	- date: [[2022-08-27]]
 	- tags: 
 # Mini-summary
 - xx

@@ -2,15 +2,14 @@
 author: John Hexa
 url: https://github.com/itrewub/jh-notes
 publisher: jh-notes
-status: 2-Bold passages
+status: 4-Mini-summary
 tags: 
 ---
 - Metadata
 	- link: [[三观可塑期]]
-	- date: [[ 2022-02-19]]
+	- date: [[ 2022-02-19]], [[2022-07-16]]
 # Mini-summary
-- xx
-- xx
+- 苟日新，又日新，日日新。 - <礼记.大学>
 # Notes
 - 三观可塑期
 ![[三观可塑期#^yqa6gd]]
