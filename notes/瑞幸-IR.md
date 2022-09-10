@@ -3,13 +3,13 @@ author: John Hexa
 url: https://github.com/itrewub/jh-notes
 publisher: jh-notes
 status: 1-Notes
-tags: 
 ---
 - Metadata
-	- link: [[三体文明]]
-	- date: [[ 2022-02-19]]
+	- link: [[瑞幸]]
+	- date: [[2022-07-30]]
+	- tags: #Society 
 # Mini-summary
 - xx
 - xx
 # Notes
-![[三体文明#^zmue5c]]
+- ![[瑞幸#^aua213]]
